@@ -1,4 +1,4 @@
-# DS4MECE: AI-Driven Music Success Modeling
+#AI-Driven Music Success Modeling
 
 An end-to-end machine learning project that predicts streaming performance and hit probability from Spotify + YouTube engagement signals.
 
